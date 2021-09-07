@@ -1,2 +1,2 @@
-# hakutaku_token
-Hakutaku Token solidity smart contract for Binance smart chain provided as is exactly as deployed.
+# Hakutaku Token
+Hakutaku Token solidity smart contract deployed on Binance smart chain provided as is exactly as deployed.
